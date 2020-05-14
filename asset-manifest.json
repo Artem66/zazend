@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zazend/static/css/main.a128d1be.chunk.css",
+    "main.js": "/zazend/static/js/main.2f6eab56.chunk.js",
+    "main.js.map": "/zazend/static/js/main.2f6eab56.chunk.js.map",
+    "runtime~main.js": "/zazend/static/js/runtime~main.e1b44d3c.js",
+    "runtime~main.js.map": "/zazend/static/js/runtime~main.e1b44d3c.js.map",
+    "static/css/2.22d6b5ec.chunk.css": "/zazend/static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.ed45301e.chunk.js": "/zazend/static/js/2.ed45301e.chunk.js",
+    "static/js/2.ed45301e.chunk.js.map": "/zazend/static/js/2.ed45301e.chunk.js.map",
+    "index.html": "/zazend/index.html",
+    "precache-manifest.39e15651d2752963c5434afe7cfd6ede.js": "/zazend/precache-manifest.39e15651d2752963c5434afe7cfd6ede.js",
+    "service-worker.js": "/zazend/service-worker.js",
+    "static/css/2.22d6b5ec.chunk.css.map": "/zazend/static/css/2.22d6b5ec.chunk.css.map",
+    "static/css/main.a128d1be.chunk.css.map": "/zazend/static/css/main.a128d1be.chunk.css.map"
+  }
+}
