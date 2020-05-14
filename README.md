@@ -1,3 +1,6 @@
+Open  https://artem66.github.io/zazend/ to view it in the browser.
+
+Or you can:
 
 First of all git clone repository
 ### npm install
